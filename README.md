@@ -68,7 +68,7 @@ npm run dev
 
 ## 🚀 Live Demo
 
-(Add your Vercel link here)
+https://tic-tac-toe-game-eight-wine.vercel.app/
 
 ---
 
@@ -76,8 +76,7 @@ npm run dev
 
 * 🤖 AI opponent (play vs computer)
 * 🌙 Dark mode
-* 🔊 Sound effects
-* 📊 Score tracking
+
 
 ---
 
